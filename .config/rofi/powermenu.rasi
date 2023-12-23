@@ -1,0 +1,9 @@
+@import "style.rasi"
+
+window {
+	width: 15%;
+}
+
+listview {
+	scrollbar: false;
+}
